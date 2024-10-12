@@ -26,7 +26,7 @@ const initialState = {
 function reducer(state, action) {
   switch (action.type) {
     case "dataReceived":
-      return { ...state, questions: action.payload, status: "ready" };
+      return { ...state, questions: action.payload.questions, status: "ready" };
     case "dataFailed":
       return { ...state, status: "error" };
     case "start":
@@ -81,7 +81,8 @@ export default function App() {
   );
 
   useEffect(function () {
-    fetch("http://localhost:9000/questions")
+    //     fetch("http://localhost:9001/questions")  In case when we're using fake server 
+    fetch("data/questions.json")
       .then((res) => res.json())
       .then((data) => dispatch({ type: "dataReceived", payload: data }))
       .catch((err) => dispatch({ type: "dataFailed" }));

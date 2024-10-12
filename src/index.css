@@ -2,7 +2,7 @@
   --color-darkest: #5C29F5;
   --color-dark: #7950F7;
   --color-medium: #ced4da;
-  --color-light: #D2C5FC;
+  --color-light: #f3f0ff;
 
   --color-theme: #05F140;
   --color-accent: #ffde92;
@@ -272,4 +272,19 @@ progress {
 .counter * {
   font-size: inherit;
   padding: 0.8rem;
+}
+
+@media only screen and (max-width: 42em) {
+
+  .app-header{
+    width: 16rem;
+  }
+
+  .main {
+    width: 30rem;
+    background-color: var(--color-darkest);
+    padding: 8rem 4rem;
+    border-radius: 10%;
+    box-shadow: 2px 2px 4rem var(--color-darkest);
+  }
 }
