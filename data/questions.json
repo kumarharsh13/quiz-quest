@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "question": "Which Indian state is known for the ancient dance form 'Sattriya'?",
+      "options": ["Assam", "Odisha", "West Bengal", "Karnataka"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "In which state is the UNESCO World Heritage site of 'Khajuraho' located?",
+      "options": ["Madhya Pradesh", "Uttar Pradesh", "Rajasthan", "Gujarat"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which Indian state has the highest percentage of tribal population?",
+      "options": ["Chhattisgarh", "Jharkhand", "Odisha", "Madhya Pradesh"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which state is known for the historical site of Hampi, a UNESCO World Heritage site?",
+      "options": ["Andhra Pradesh", "Karnataka", "Maharashtra", "Tamil Nadu"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which Indian state is home to the Great Rann of Kutch?",
+      "options": ["Gujarat", "Maharashtra", "Rajasthan", "Punjab"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which state is famous for the traditional art of Pattachitra?",
+      "options": ["Bihar", "Odisha", "Assam", "Uttar Pradesh"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which Indian state has the largest number of national parks?",
+      "options": ["Uttar Pradesh", "Madhya Pradesh", "Rajasthan", "Himachal Pradesh"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "In which state would you find the ancient cave paintings of Bhimbetka?",
+      "options": ["Madhya Pradesh", "Maharashtra", "Karnataka", "Chhattisgarh"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which state is known for the famous festival of 'Hornbill'?",
+      "options": ["Nagaland", "Manipur", "Tripura", "Mizoram"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which Indian state is recognized for the unique 'living root bridges'?",
+      "options": ["Assam", "Meghalaya", "Tripura", "Nagaland"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which state has the highest peaks in the Western Ghats?",
+      "options": ["Kerala", "Karnataka", "Tamil Nadu", "Maharashtra"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "In which state is the famous 'Kumbh Mela' held at Haridwar?",
+      "options": ["Uttar Pradesh", "Haryana", "Uttarakhand", "Bihar"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which state is famous for the production of 'Bamboo Rice'?",
+      "options": ["Madhya Pradesh", "Kerala", "Chhattisgarh", "Odisha"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which Indian state is home to the only floating national park in the world?",
+      "options": ["Uttar Pradesh", "Manipur", "Assam", "West Bengal"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which state is famous for its tea plantations, especially Darjeeling tea?",
+      "options": ["Assam", "West Bengal", "Kerala", "Tamil Nadu"],
+      "correctOption": 1,
+      "points": 10
+    }
+  ]
+}
